@@ -1,4 +1,4 @@
-# Personal Resume Website
+# Simple HTML Resume Website
 
 A modern, responsive personal resume website built using HTML, Bootstrap, Font Awesome, and jQuery. This project allows you to showcase your skills, social links, and personal branding in a clean and stylish way.
 
