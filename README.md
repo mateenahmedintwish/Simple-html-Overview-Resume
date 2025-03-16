@@ -10,7 +10,7 @@ A modern, responsive personal resume website built using HTML, Bootstrap, Font A
 - **Font Awesome Icons** - Includes social and skills icons for a visually appealing design.
 
 ## Demo
-You can see a live demo of this project here: https://mateen.toolteno.com
+You can see a live demo of this project here: https://mateen.toolteeno.com
 
 ## Getting Started
 ### Prerequisites
